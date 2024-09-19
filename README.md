@@ -20,4 +20,4 @@ Este é um projeto simples de uma To-Do List utilizando **HTML**, **CSS** e **Ja
 1. Faça o download do repositório ou clone ele usando o seguinte comando no terminal:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/juniormoretao/To-do-list.git
