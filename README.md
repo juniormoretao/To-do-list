@@ -1,6 +1,6 @@
 # To-Do List Project
 
-Este é um projeto simples de uma To-Do List utilizando **HTML**, **CSS** e **JavaScript**.
+Este é um projeto simples de um To-Do List
 
 ## Funcionalidades
 
