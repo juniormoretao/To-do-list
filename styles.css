@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('img/wallpaperflare.com_wallpaper\ \(1\).jpg'); /* Coloque aqui o nome da sua imagem */
-    background-size: cover; /* Faz a imagem cobrir todo o fundo da página */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-image: url('img/wallpaperflare.com_wallpaper\ \(1\).jpg'); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
     display: flex;
     justify-content: center;
     align-items: center;
