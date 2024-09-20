@@ -1,6 +1,6 @@
 # To-Do List Project
 
-Este é um projeto simples de um To-Do List
+Projeto simples de um To-Do List
 
 ## Funcionalidades
 
